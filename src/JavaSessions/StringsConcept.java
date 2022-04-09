@@ -23,8 +23,8 @@ public class StringsConcept {
 		 
 		 System.out.println(s+(a+b));
 		 
-		 System.out.println("the value of a" + a);
-		 System.out.println("the value of b" + b);
+		 System.out.println("the value of a :" + a);
+		 System.out.println("the value of b :" + b);
 		 
 		 System.out.println(s+a+b+d1+d2);
 	
