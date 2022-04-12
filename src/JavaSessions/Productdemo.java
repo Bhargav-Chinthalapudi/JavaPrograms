@@ -6,7 +6,7 @@ public class Productdemo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("product demo class");
-
+		System.out.println("product demo to check conflict");
 	}
 
 }
